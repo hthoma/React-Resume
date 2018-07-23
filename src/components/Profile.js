@@ -13,7 +13,7 @@ const Profile = props => {
                   </ul>
                   <div className="divider"></div>
                   <ul className="profileLinks list-inline text-center">
-                    <li><a className="fa fa-linkedin-square fa-2x" href={'https://linkedin.com/'+profileObj.profiles[0].username}></a></li>
+                    <li><a className="fa fa-linkedin-square fa-2x" href={'https://linkedin.com/in/'+profileObj.profiles[0].username}></a></li>
                     <li><a className="fa fa-github fa-2x" href={'https://github.com/'+profileObj.profiles[1].username}></a></li>
                   </ul>
                   <div className="divider"></div>
