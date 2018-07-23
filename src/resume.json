@@ -1,134 +1,54 @@
 {
   "basics": {
-    "name": "Jonathan Bloomer",
-    "label": "Lead Front End Developer",
-    "picture": "./profilePhoto.jpg",
-    "email": "jonbloomer@gmail.com",
-    "phone": "0403933281",
-    "website": "http://freaksauce.com",
-    "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at IAG is Front End Lead for a small React team and have been developing with React and Redux for the past 2 years.",
+    "name": "Harry Thomasian",
+    "label": "Aspiring Software Developer",
+    "picture": "",
+    "email": "hthoma12@students.towson.edu",
+    "phone": "4436326201",
+    "website": "http://github.com/hthoma",
+    "summary": "I have always been facinated with technology and its ability to solve problems in new ways. Throughout my formal education I have worked with many different technologies but found I am most interested in web based technology and mobile applications. I continue to pursue knowledge and experience in both these areas and hope to soon enter the workforce as a software developer after I graduate in December.",
     "location": {
-      "address": "Sutherland",
-      "postalCode": "2232",
-      "city": "Sydney",
-      "countryCode": "Aus",
-      "region": "NSW"
+      "address": "Homeland",
+      "postalCode": "21212",
+      "city": "Baltimore",
+      "countryCode": "US",
+      "region": "MD"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "jonbloomer",
+        "network": "LinkedIn",
+        "username": "harry.thomasian",
         "url": ""
       },
       {
         "network": "Github",
-        "username": "freaksauce",
-        "url": ""
+        "username": "hthoma",
+        "url": "github.com/hthoma"
       }
     ]
   },
   "work": [
     {
-      "company": "IAG",
-      "position": "Lead Front End Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2016-08-01",
+      "company": "Prometric",
+      "position": "Software Development Intern",
+      "website": "http://Prometric.com",
+      "startDate": "2018-06-04",
       "endDate": "",
-      "summary": "I am currently working as a lead front end developer on a small React team building Insurance applications and I am across multiple applications that have been built or are being built using our new development stack. IAG are keen to utilise the latest front end technologies and we have had great success as a team using React/Redux running on a Node Express server and using an API backend architecture to access the various IAG systems. We are striving to increase the quality of our projects with good test coverage and code reviews and improving our continuous integration practices.",
-      "highlights": []
-    },
-    {
-      "company": "Pacific Magazines",
-      "position": "Senior Front End Developer",
-      "website": "",
-      "startDate": "2016-03-01",
-      "endDate": "2016-08-01",
-      "summary": "During my time at Pacific Magazines I worked on a couple of large React applications using React/Redux to integrate with a .NET MVC Application.",
-      "highlights": []
-    },
-    {
-      "company": "IAG",
-      "position": "UI Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2014-11-01",
-      "endDate": "2016-03-01",
-      "summary": "Working as a UI developer as part of IAG Labs developing html/css/javascript solutions to integrate with the backend systems for the online quoting applications.",
-      "highlights": []
-    },
-    {
-      "company": "Reactive",
-      "position": "Front End Developer",
-      "website": "",
-      "startDate": "2014-09-01",
-      "endDate": "2014-11-30",
-      "summary": "At Reactive I was responsible for working with a .NET team to deliver templates using javascript/sass/grunt and handlebars. I also had exposure to TFS for source control.",
-      "highlights": []
-    },
-    {
-      "company": "City of Sydney Council",
-      "position": "Front End Developer",
-      "website": "",
-      "startDate": "2014-05-01",
-      "endDate": "2014-08-31",
-      "summary": "For City of Sydney I was a Front End Developer working with Wordpress on multiple key websites such as Sydneynewyearseve.com.au. All code was developed using LESS and Bootstrap for a consistent responsive interface.",
-      "highlights": []
-    },
-    {
-      "company": "Self Employed",
-      "position": "Freelance Web Developer",
-      "website": "",
-      "startDate": "2010-03-01",
-      "endDate": "2014-05-01",
-      "summary": "As a freelance web developer I mainly concentrated on building bespoke CMS solutions for agencies using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with Advanced Custom Fields and toward the latter end of my freelance venture, responsive layouts.",
-      "highlights": []
-    },
-    {
-      "company": "Soap Creative",
-      "position": "Senior Web Developer",
-      "website": "http://soapcreative.com",
-      "startDate": "2006-07-01",
-      "endDate": "2010-03-01",
-      "summary": "At SOAP I was required to carry out full stack duties across a broad range of projects including php/MySQL with front end technologies ranging from html/css to Flash.",
-      "highlights": []
-    },
-    {
-      "company": "M&C Saatchi",
-      "position": "Web Developer",
-      "website": "http://mcsaatchi.com.au/",
-      "startDate": "2006-05-01",
-      "endDate": "2006-08-31",
-      "summary": "Flash development with xml & amfphp for php/mysql integration.",
-      "highlights": []
-    },
-    {
-      "company": "Wunderman/GPY&R",
-      "position": "Web Developer",
-      "website": "http://www.gpyr.com.au/",
-      "startDate": "2005-07-01",
-      "endDate": "2006-05-01",
-      "summary": "Flash developer using xml & amfphp, html/css with php/mysql backend integration and CMS development.",
-      "highlights": []
-    },
-    {
-      "company": "Federal Publishing Company",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2004-07-01",
-      "endDate": "2005-03-31",
-      "summary": "Lead web developer on homehound.com.au, html/css/javascript development with php & SQL server integration.",
-      "highlights": []
+      "summary": "",
+      "highlights": ["Work with a Microsoft tech stack (C#, ASP.NET, IIS, TFS) to maintain legacy applications that are deployed worldwide","Develop in-house software using web technologies such as React and Node.js","Regularly interact with senior management and developers to receive feedback and gather requirements" ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Birmingham Conservatoire",
-      "area": "Music",
-      "studyType": "Bachelor (hons)",
-      "startDate": "1994-08-01",
-      "endDate": "1998-07-01",
-      "gpa": "",
-      "courses": []
+      "institution": "Towson University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-09-01",
+      "endDate": "2018-12-01",
+      "gpa": "3.36",
+      "majorGpa": "3.7",
+      "courses": ["Database Systems", "Data Structures and Algorithms", "Mobile Application Development", "Web Based Programming", "Artificial Intelligence", "Data Communication and Networking","Software Engineering"]
     }
   ],
   "awards": [],
@@ -141,26 +61,17 @@
         "HTML",
         "CSS",
         "Javascript",
-        "ES2015",
-        "jQuery",
-        "Typescript",
-        "Meteor",
         "React",
-        "Handlebars",
-        "SASS",
-        "LESS",
-        "Gulp",
-        "Grunt",
-        "Babel",
-        "Bootstrap",
-        "Semantic UI",
-        "Material css",
         "Node",
-        "php",
+        "MongoDB",
+        "Java",
+        "Android",
+        "C#",
+        "SQLite",
         "MySQL",
         "Git",
-        "Jira",
-        "Responsive"
+        "TFS",
+        "Agile"
       ]
     }
   ],
@@ -170,9 +81,40 @@
       "fluency": "Native speaker"
     }
   ],
+  "projects": [
+    {
+      "project": "MDYG Delegatewatch",
+      "website": "https://github.com/hthoma/MDYG-Database-App",
+      "startDate": "Summer 2017",
+      "endDate": "Spring 2018",
+      "summary": "",
+      "highlights": ["Built GUI Java application with JavaFX interfaced with a MySQL database that allows program administrators to edit, add, search and maintain student data","Worked with database architect and design team to build application and database from the ground up","Maintained and updated application based on proactive communications with program administrators"]
+    },
+    {
+      "project": "Weatherscan",
+      "website": "https://github.com/hthoma/Weatherscan",
+      "startDate": "Fall 2017",
+      "endDate": "Fall 2017",
+      "summary": "",
+      "highlights": ["Developed weather application built natively for android devices in Android Studio","Utilized threading, recycler view, fragments, databases, intents, location services, and a REST API.","Constructed unit tests with Mockito and functional tests with Espresso"]
+    },
+    {
+      "project": "Bitcard",
+      "website": "https://github.com/hthoma/Bitcard",
+      "startDate": "Fall 2017",
+      "endDate": "Fall 2017",
+      "summary": "",
+      "highlights": ["Developed simple bitcoin wallet built natively for android devices using the BitcoinJ library","Participated in Agile development environment as a Part-time Scrum Master","Worked with team to design application, create advertising material, and build user documentation"]
+    }
+
+  ],
   "interests": [
     {
       "name": "Guitar",
+      "keywords": []
+    },
+    {
+      "name": "Travel",
       "keywords": []
     }
   ],

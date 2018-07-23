@@ -22,7 +22,7 @@
     "eslint-config-react-app": "^0.3.0",
     "eslint-loader": "1.6.0",
     "eslint-plugin-flowtype": "2.21.0",
-    "eslint-plugin-import": "2.0.1",
+    "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jsx-a11y": "2.2.3",
     "eslint-plugin-react": "6.4.1",
     "extract-text-webpack-plugin": "1.0.1",
@@ -32,12 +32,13 @@
     "font-awesome": "^4.7.0",
     "font-awesome-webpack-sass": "0.0.3",
     "fs-extra": "0.30.0",
+    "gh-pages": "^1.2.0",
     "gzip-size": "3.0.0",
     "html-webpack-plugin": "2.24.0",
     "http-proxy-middleware": "0.17.2",
     "jest": "16.0.2",
     "json-loader": "0.5.4",
-    "node-sass": "^3.13.0",
+    "node-sass": "4.9.2",
     "object-assign": "4.1.0",
     "path-exists": "2.1.0",
     "postcss-loader": "1.0.0",
@@ -56,9 +57,13 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
+    "@material-ui/icons": "^2.0.0",
     "moment": "^2.18.1",
     "react": "^15.4.1",
-    "react-dom": "^15.4.1"
+    "react-dom": "^15.4.1",
+    "react-mfb": "^0.6.0",
+    "react-mui-speeddial": "0.0.6",
+    "react-tooltip": "^3.6.1"
   },
   "scripts": {
     "start": "node scripts/start.js",

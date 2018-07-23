@@ -4,6 +4,9 @@ import About from './About';
 import Work from './Work';
 import Skills from './Skills';
 import Education from './Education';
+import Projects from './Projects';
+import ResumeDownloads from './ResumeDownloads';
+
 
 const App = props => {
   const profileData = props.jsonObj.basics;
@@ -11,6 +14,7 @@ const App = props => {
   const workData = props.jsonObj.work;
   const skillsData = props.jsonObj.skills;
   const educationData = props.jsonObj.education;
+  const projectData = props.jsonObj.projects;
   // console.log(profileData)
   return (
           <div className="container">
@@ -19,17 +23,26 @@ const App = props => {
                 <div className="inner">
                   <Profile profileData={profileData} />
                 </div>
+                <div className="inner" style={{marginTop:'10px', paddingTop: '5px',marginBottom: '-10px',}}>
+                  <ResumeDownloads/>
+                </div>
               </aside>
               <main className="col-md-8">
                 <div className="inner">
                   <About aboutData={aboutData} />
-                  <Work workData={workData} />
-                  <Skills skillsData={skillsData} />
                   <Education educationData={educationData} />
+                  <Work workData={workData}/>
+                  <Projects projectData={projectData}/>
+                  <Skills skillsData={skillsData} />
                 </div>
               </main>
             </div>
+
+
           </div>
+
+
+
     )
 };
 
