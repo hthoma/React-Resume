@@ -31,9 +31,9 @@ const App = props => {
                 <div className="inner">
                   <About aboutData={aboutData} />
                   <Education educationData={educationData} />
+                  <Skills skillsData={skillsData} />
                   <Work workData={workData}/>
                   <Projects projectData={projectData}/>
-                  <Skills skillsData={skillsData} />
                 </div>
               </main>
             </div>

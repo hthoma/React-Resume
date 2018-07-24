@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "harry-thomasian-44aab815b",
-        "url": ""
+        "url": "linkedin.com/in/harry-thomasian-44aab815b"
       },
       {
         "network": "Github",
@@ -35,7 +35,7 @@
       "startDate": "2018-06-04",
       "endDate": "",
       "summary": "",
-      "highlights": ["Work with a Microsoft tech stack (C#, ASP.NET, IIS, TFS) to maintain legacy applications that are deployed worldwide","Develop in-house software using web technologies such as React and Node.js","Regularly interact with senior management and developers to receive feedback and gather requirements" ]
+      "highlights": ["Work with a Microsoft tech stack (C#, ASP.NET, IIS, TFS) to maintain legacy applications that are deployed worldwide","Develop in-house software using web technologies such as React and Node.js","Regularly interact with senior management and developers to receive feedback and gather requirements","Participate in Agile team and utilize TFS to manage source control and bi-weekly sprints" ]
     }
   ],
   "volunteer": [],
@@ -71,7 +71,8 @@
         "MySQL",
         "Git",
         "TFS",
-        "Agile"
+        "Agile",
+        "React Native"
       ]
     }
   ],
@@ -118,5 +119,5 @@
       "keywords": []
     }
   ],
-  "references": []
+  "references": [] 
 }
