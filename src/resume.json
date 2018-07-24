@@ -86,7 +86,7 @@
     {
       "project": "MDYG Delegatewatch",
       "website": "https://github.com/hthoma/MDYG-Database-App",
-      "startDate": "Summer 2017",
+      "startDate": "Fall 2017",
       "endDate": "Spring 2018",
       "summary": "",
       "highlights": ["Built GUI Java application with JavaFX interfaced with a MySQL database that allows program administrators to edit, add, search and maintain student data","Worked with database architect and design team to build application and database from the ground up","Maintained and updated application based on proactive communications with program administrators"]
