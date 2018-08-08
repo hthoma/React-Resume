@@ -51,7 +51,7 @@
     "sass-loader": "^4.0.2",
     "strip-ansi": "3.0.1",
     "style-loader": "^0.21.0",
-    "url-loader": "^0.5.7",
+    "url-loader": "^1.0.1",
     "webpack": "1.13.2",
     "webpack-dev-server": "1.16.2",
     "webpack-manifest-plugin": "1.1.0",
