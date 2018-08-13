@@ -21,7 +21,7 @@
     "dotenv": "2.0.0",
     "eslint": "3.8.1",
     "eslint-config-react-app": "^0.3.0",
-    "eslint-loader": "1.6.0",
+    "eslint-loader": "2.1.0",
     "eslint-plugin-flowtype": "2.21.0",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jsx-a11y": "2.2.3",
