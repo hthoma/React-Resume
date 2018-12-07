@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Harry Thomasian",
-    "label": "Aspiring Software Developer",
+    "label": "Software Engineer",
     "picture": "",
-    "email": "hthoma12@students.towson.edu",
+    "email": "hthomadev@gmail.com",
     "phone": "4436326201",
-    "website": "http://github.com/hthoma",
-    "summary": "I have always been fascinated with technology and its ability to solve problems in new ways. Throughout my formal education I have worked with many different technologies but found I am most interested in web based technology and mobile applications. I continue to pursue knowledge and experience in both these areas and hope to soon enter the workforce as a software developer after I graduate in December.",
+    "website": "http://hthoma.github.io",
+    "summary": "I have always been fascinated with technology and its ability to solve problems in new ways. Throughout my formal education I have worked with many different technologies but found I am most interested in mobile applications and IoT. I continue to pursue knowledge and experience in both these areas and will soon enter the workforce as a software engineer after I graduate in December.",
     "location": {
-      "address": "Homeland",
-      "postalCode": "21212",
-      "city": "Baltimore",
-      "countryCode": "US",
-      "region": "MD"
+      "address": "Arlington",
+      "postalCode": "22201",
+      "city": "Arlington",
+      "countryCode": "USA",
+      "region": "VA"
     },
     "profiles": [
       {
@@ -33,9 +33,9 @@
       "position": "Software Development Intern",
       "website": "http://Prometric.com",
       "startDate": "2018-06-04",
-      "endDate": "",
+      "endDate": "2018-12-6",
       "summary": "",
-      "highlights": ["Work with a Microsoft tech stack (C#, ASP.NET, IIS, TFS) to maintain legacy applications that are deployed worldwide","Develop in-house software using web technologies such as React and Node.js","Regularly interact with senior management and developers to receive feedback and gather requirements","Participate in Agile team and utilize TFS to manage source control and bi-weekly sprints" ]
+      "highlights": ["Worked with a Microsoft tech stack (C#, ASP.NET, IIS, TFS) to maintain legacy applications that are deployed worldwide","Developed in-house software using web technologies such as React and Node.js","Regularly interacted with senior management and developers to receive feedback and gather requirements","Participated in Agile team and utilize TFS to manage source control and bi-weekly sprints" ]
     }
   ],
   "volunteer": [],
@@ -112,11 +112,11 @@
   "interests": [
     {
       "name": "Guitar",
-      "keywords": []
+      "keywords": ["Fingerstyle","Indie","Folk"]
     },
     {
       "name": "Travel",
-      "keywords": []
+      "keywords": ["Asia","South America"]
     }
   ],
   "references": [] 
