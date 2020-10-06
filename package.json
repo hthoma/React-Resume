@@ -37,7 +37,7 @@
     "gzip-size": "3.0.0",
     "html-webpack-plugin": "2.24.0",
     "http-proxy-middleware": "0.17.2",
-    "jest": "23.4.2",
+    "jest": "26.5.0",
     "json-loader": "0.5.4",
     "node-sass": "4.9.2",
     "object-assign": "4.1.0",
